@@ -45,6 +45,7 @@ The process consists of two main stages:
     python chunk2.py
     python embed3.py
     python index4.py
+    ...
     ```
 3.  **Launch the Web Application:**
     ```bash
